@@ -4,9 +4,13 @@ Your market advisor with twenty years of Wall Street experience, as a chat on yo
 Connect your own AI (ChatGPT sign-in, an API key or a local model) and, if you like, your investment
 accounts. Everything stays on your computer, encrypted.
 
-This repository only holds the installer and the releases.
+This repository only holds the installers and the releases.
 
-## Install (one command)
+## Download the app
+
+**https://reachedge.vercel.app** — Mac (Apple Silicon and Intel), Windows and Linux.
+
+## Or install with one command
 
 **Mac or Linux**: open Terminal and paste:
 
